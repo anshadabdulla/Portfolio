@@ -1,0 +1,1 @@
+A repository for my personal portfolio website, built to showcase my skills, projects, and professional journey as a Software Engineer. The website is designed with a focus on clean aesthetics, user-friendly navigation, and responsive design, providing a comprehensive view of my technical expertise and accomplishments.
